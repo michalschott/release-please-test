@@ -1,5 +1,5 @@
 variable "example" {
-  description = "Example variable"
-  default     = "hello world"
-  type        = string
+  description = "Bool variable"
+  default     = true
+  type        = bool
 }
