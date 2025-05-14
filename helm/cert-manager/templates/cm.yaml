@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  environment: {{ .Values.environment }}
+  vpcCIDR: {{ .Values.vpcCIDR }}
+kind: ConfigMap
+metadata:
+  name: info

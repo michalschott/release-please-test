@@ -1,0 +1,9 @@
+external-secrets:
+  certController:
+    log:
+      level: error
+  log:
+    level: error
+  webhook:
+    log:
+      level: error

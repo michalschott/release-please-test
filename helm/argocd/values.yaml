@@ -1,0 +1,6 @@
+argo-cd:
+  global:
+    image:
+      imagePullPolicy: Always
+  logging:
+    format: json
