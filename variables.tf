@@ -1,5 +1,5 @@
-variable "example" {
-  description = "Bool variable"
-  default     = true
-  type        = bool
+variable "environment" {
+  description = "Environment name"
+  default     = "dev"
+  type        = string
 }
