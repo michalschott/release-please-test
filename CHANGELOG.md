@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/michalschott/release-please-test/compare/v0.3.0...v0.4.0) (2025-05-19)
+
+
+### Features
+
+* release-please config update ([a3a314a](https://github.com/michalschott/release-please-test/commit/a3a314abe190d32b1b8c02c6e26c9ddbc1535696))
+
 ## [0.3.0](https://github.com/michalschott/release-please-test/compare/v0.2.0...v0.3.0) (2025-05-19)
 
 
