@@ -1,6 +1,5 @@
 {
-  "prerelease-type": "beta",
-  "prerelease": true,
+  "prerelease-type": "rc",
   "versioning": "prerelease",
   "packages": {
     ".": {
