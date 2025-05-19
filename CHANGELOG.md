@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.3.0](https://github.com/michalschott/release-please-test/compare/v0.2.0...v0.3.0) (2025-05-19)
+
+
+### Features
+
+* added ArgoCD provisioning ([fe0b9ea](https://github.com/michalschott/release-please-test/commit/fe0b9eac55635f7227e10ec035b219eacaec7a76))
+
+
+### Bug Fixes
+
+* fixes ([37036b8](https://github.com/michalschott/release-please-test/commit/37036b82c03d570e665dbc8beefafda0e1a7d070))
+* fixes ([d27f7cf](https://github.com/michalschott/release-please-test/commit/d27f7cf4e29ecf25a09633780e8ca91bf693837a))
+* fixes ([0027b49](https://github.com/michalschott/release-please-test/commit/0027b49eebaa2e422002a66c1b3c2fcb9048043a))
+* fixes ([a67f233](https://github.com/michalschott/release-please-test/commit/a67f2337cecba0eed96a32c84e05eeb18f5572e4))
+
 ## [0.2.0](https://github.com/michalschott/release-please-test/compare/v0.1.0...v0.2.0) (2025-05-14)
 
 
