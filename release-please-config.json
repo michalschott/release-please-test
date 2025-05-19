@@ -1,0 +1,10 @@
+{
+  "prerelease-type": "beta",
+  "prerelease": true,
+  "draft": true,
+  "packages": {
+    ".": {
+      "release-type": "terraform-module"
+    }
+  }
+}
