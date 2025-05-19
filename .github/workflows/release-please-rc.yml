@@ -17,5 +17,5 @@ jobs:
         with:
           token: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}
           config-file: .github/release-please-config-rc.json
-          manifest-file: github/.release-please-manifest-rc.json
+          manifest-file: .github/.release-please-manifest-rc.json
           target-branch: ${{ github.ref_name }}
