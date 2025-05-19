@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.4.0-rc](https://github.com/michalschott/release-please-test/compare/v0.3.0...v0.4.0-rc) (2025-05-19)
+
+
+### Features
+
+* release-please config update ([a3a314a](https://github.com/michalschott/release-please-test/commit/a3a314abe190d32b1b8c02c6e26c9ddbc1535696))
+* test ([2c810ce](https://github.com/michalschott/release-please-test/commit/2c810ce33297a0eb122e65b8ed4531d2c9d6618a))
+* test ([b5928e2](https://github.com/michalschott/release-please-test/commit/b5928e2c6fe9c1f4b4f0c1fd65afd661b99921b6))
+* test ([ef46134](https://github.com/michalschott/release-please-test/commit/ef46134f12704b28a937e1b4a86b5c81a0317eb0))
+* test ([bba4218](https://github.com/michalschott/release-please-test/commit/bba42188a363f5ae9eed018006f7b9ad705ac097))
+* test ([f517a91](https://github.com/michalschott/release-please-test/commit/f517a9197d0bc735a7cb4404ee6b7b66c6b98d89))
+* test ([e4d4135](https://github.com/michalschott/release-please-test/commit/e4d4135775a5e4e9f097517762f82d617191d0fc))
+* test ([6b134ac](https://github.com/michalschott/release-please-test/commit/6b134ac8eb1d6037ba1b92c30b6c1ab17a4474ec))
+
 ## [0.7.0-beta](https://github.com/michalschott/release-please-test/compare/v0.6.0...v0.7.0-beta) (2025-05-19)
 
 
