@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0-beta](https://github.com/michalschott/release-please-test/compare/v0.6.0...v0.7.0-beta) (2025-05-19)
+
+
+### Features
+
+* test ([e4d4135](https://github.com/michalschott/release-please-test/commit/e4d4135775a5e4e9f097517762f82d617191d0fc))
+
 ## [0.6.0](https://github.com/michalschott/release-please-test/compare/v0.5.0...v0.6.0) (2025-05-19)
 
 
