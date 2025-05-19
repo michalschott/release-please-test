@@ -1,6 +1,7 @@
 {
   "prerelease-type": "beta",
   "prerelease": true,
+  "versioning": "prerelease",
   "packages": {
     ".": {
       "release-type": "terraform-module"
