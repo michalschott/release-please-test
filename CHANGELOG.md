@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.0 (2025-05-20)
+
+
+### Features
+
+* initial commit ([cd77efd](https://github.com/michalschott/release-please-test/commit/cd77efd7534bcf49943b788dcb41fc3182ecfd40))
+
 ## [0.7.0-beta](https://github.com/michalschott/release-please-test/compare/v0.6.0...v0.7.0-beta) (2025-05-19)
 
 
