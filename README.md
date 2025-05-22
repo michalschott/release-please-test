@@ -2,6 +2,10 @@
 
 This is an example how you can pass context from external source(s) (like vales for helm charts) to ArgoCD with Terraform.
 
+## Requirements
+
+* local [minikube](https://minikube.sigs.k8s.io/docs/) cluster up and running
+
 ## Install minimal version of operational ArgoCD
 
 First step is to install ArgoCD. The method doesn't really matter - at the end ArgoCD which you are about to install will get updated to the version defined in `helm/argocd` folder.
